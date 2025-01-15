@@ -1,0 +1,13 @@
+DNA Sequence: GACGAAAGGAGTTGTTGTTGACACTGGCAAAATCGTTGTGTCTGCGTATT
+
+Mutation Analysis:
+Pattern 'GTTGTTGTTG': Detected
+State Transitions: 0 -> 1 -> 0 -> 0 -> 1 -> 0 -> 0 -> 0 -> 1 -> 1 -> 0 -> 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 8 -> 9 -> 10
+Pattern 'GAAAGGAG': Detected
+State Transitions: 0 -> 1 -> 2 -> 0 -> 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 8
+
+Overall Mutation Detected: Yes
+
+Detected Diseases/Syndromes:
+Tay-Sachs Disease: Tay-Sachs Disease: A fatal disorder affecting the central nervous system, leading to motor and cognitive decline.
+Marfan Syndrome: Marfan Syndrome: A connective tissue disorder affecting the heart, eyes, blood vessels, and skeleton.
